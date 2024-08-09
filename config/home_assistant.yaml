@@ -1,0 +1,10 @@
+homeassistant:
+  name: Smart Home Automation
+  latitude: !secret latitude
+  longitude: !secret longitude
+  elevation: 20
+  unit_system: metric
+  currency: USD
+  time_zone: America/New_York
+  external_url: http://example.com
+  internal_url: http://homeassistant.local:8123

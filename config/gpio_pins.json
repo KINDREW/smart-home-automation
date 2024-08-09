@@ -1,0 +1,5 @@
+{
+  "relay_pin": 17,
+  "temperature_pin": 4,
+  "motion_pin": 27
+}
